@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../Filter.srcs/sources_1/imports/TapFilter/Fixed.vhd"
+vhdl xil_defaultlib  "../../../Filter.srcs/sim_1/imports/TapFilter/Fixed_tb_pkg.vhd"
+vhdl xil_defaultlib  "../../../Filter.srcs/sim_1/imports/TapFilter/Fixed_tb.vhd"
+
+# Do not sort compile order
+nosort

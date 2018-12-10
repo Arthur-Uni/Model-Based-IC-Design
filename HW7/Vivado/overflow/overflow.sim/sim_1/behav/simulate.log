@@ -1,0 +1,4 @@
+Vivado Simulator 2015.4
+Time resolution is 1 ps
+Note: **************TEST COMPLETED (PASSED)**************
+Time: 150 ns  Iteration: 1  Process: /Overflow_Detection_and_Saturation_4_bit_adder_tb/completed_msg  File: C:/Users/Arthur/Desktop/IC Design/overflow/overflow.srcs/sim_1/imports/overflow_and_saturation/Overflow_Detection_and_Saturation_4_bit_adder_tb.vhd

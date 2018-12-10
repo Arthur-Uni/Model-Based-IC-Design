@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../HybridForm.srcs/sources_1/imports/HybridForm/HybridForm.vhd"
+vhdl xil_defaultlib  "../../../HybridForm.srcs/sim_1/imports/HybridForm/HybridForm_tb_pkg.vhd"
+vhdl xil_defaultlib  "../../../HybridForm.srcs/sim_1/imports/HybridForm/HybridForm_tb.vhd"
+
+# Do not sort compile order
+nosort

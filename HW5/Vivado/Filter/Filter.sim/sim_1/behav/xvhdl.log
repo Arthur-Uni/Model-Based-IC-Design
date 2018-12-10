@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/Filter/Filter.srcs/sources_1/imports/TapFilter/Fixed.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Fixed
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/Filter/Filter.srcs/sim_1/imports/TapFilter/Fixed_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/Filter/Filter.srcs/sim_1/imports/TapFilter/Fixed_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Fixed_tb

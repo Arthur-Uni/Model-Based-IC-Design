@@ -1,0 +1,7 @@
+Running: xsim.dir/Overflow_Detection_and_Saturation_4_bit_adder_tb_behav/xsimk.exe -simmode gui -wdb Overflow_Detection_and_Saturation_4_bit_adder_tb_behav.wdb -simrunnum 0 -socket 52494
+Design successfully loaded
+Design Loading Memory Usage: 18060 KB (Peak: 18060 KB)
+Design Loading CPU Usage: 593 ms
+Simulation completed
+Simulation Memory Usage: 18544 KB (Peak: 18544 KB)
+Simulation CPU Usage: 608 ms

@@ -1,0 +1,1 @@
+-wto "be4c890f10c94c52a295c3dbe403a04a" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Overflow_Detection_and_Saturation_4_bit_adder_tb_behav" "xil_defaultlib.Overflow_Detection_and_Saturation_4_bit_adder_tb" -log "elaborate.log" 

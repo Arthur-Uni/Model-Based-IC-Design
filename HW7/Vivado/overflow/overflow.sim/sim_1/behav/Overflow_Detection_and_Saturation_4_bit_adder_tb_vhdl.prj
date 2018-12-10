@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../overflow.srcs/sources_1/imports/overflow_and_saturation/saturation_out.vhd"
+vhdl xil_defaultlib  "../../../overflow.srcs/sources_1/imports/overflow_and_saturation/overflow_detection.vhd"
+vhdl xil_defaultlib  "../../../overflow.srcs/sources_1/imports/overflow_and_saturation/Overflow_Detection_and_Saturation_4_bit_adder.vhd"
+vhdl xil_defaultlib  "../../../overflow.srcs/sim_1/imports/overflow_and_saturation/Overflow_Detection_and_Saturation_4_bit_adder_tb_pkg.vhd"
+vhdl xil_defaultlib  "../../../overflow.srcs/sim_1/imports/overflow_and_saturation/Overflow_Detection_and_Saturation_4_bit_adder_tb.vhd"
+
+# Do not sort compile order
+nosort

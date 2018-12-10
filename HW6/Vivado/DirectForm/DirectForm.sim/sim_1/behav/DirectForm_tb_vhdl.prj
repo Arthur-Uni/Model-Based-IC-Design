@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../DirectForm.srcs/sources_1/imports/DirectForm_2016a/DirectForm.vhd"
+vhdl xil_defaultlib  "../../../DirectForm.srcs/sim_1/imports/DirectForm_2016a/DirectForm_tb_pkg.vhd"
+vhdl xil_defaultlib  "../../../DirectForm.srcs/sim_1/imports/DirectForm_2016a/DirectForm_tb.vhd"
+
+# Do not sort compile order
+nosort

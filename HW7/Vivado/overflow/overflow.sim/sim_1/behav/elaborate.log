@@ -1,0 +1,18 @@
+Vivado Simulator 2015.4
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.4/bin/unwrapped/win64.o/xelab.exe -wto be4c890f10c94c52a295c3dbe403a04a --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Overflow_Detection_and_Saturation_4_bit_adder_tb_behav xil_defaultlib.Overflow_Detection_and_Saturation_4_bit_adder_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.overflow_detection_and_saturatio...
+Compiling architecture rtl of entity xil_defaultlib.overflow_detection [overflow_detection_default]
+Compiling architecture rtl of entity xil_defaultlib.saturation_out [saturation_out_default]
+Compiling architecture rtl of entity xil_defaultlib.Overflow_Detection_and_Saturation_4_bit_adder [overflow_detection_and_saturatio...]
+Compiling architecture rtl of entity xil_defaultlib.overflow_detection_and_saturatio...
+Built simulation snapshot Overflow_Detection_and_Saturation_4_bit_adder_tb_behav

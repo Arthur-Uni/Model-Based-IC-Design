@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/DirectForm/DirectForm.srcs/sources_1/imports/DirectForm_2016a/DirectForm.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DirectForm
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/DirectForm/DirectForm.srcs/sim_1/imports/DirectForm_2016a/DirectForm_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/DirectForm/DirectForm.srcs/sim_1/imports/DirectForm_2016a/DirectForm_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DirectForm_tb

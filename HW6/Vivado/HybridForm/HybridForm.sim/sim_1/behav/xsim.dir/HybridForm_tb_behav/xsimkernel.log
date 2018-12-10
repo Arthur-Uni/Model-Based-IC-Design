@@ -1,0 +1,7 @@
+Running: xsim.dir/HybridForm_tb_behav/xsimk.exe -simmode gui -wdb HybridForm_tb_behav.wdb -simrunnum 0 -socket 51252
+Design successfully loaded
+Design Loading Memory Usage: 17860 KB (Peak: 17860 KB)
+Design Loading CPU Usage: 640 ms
+Simulation completed
+Simulation Memory Usage: 18328 KB (Peak: 18328 KB)
+Simulation CPU Usage: 656 ms

@@ -1,0 +1,9 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/overflow/overflow.srcs/sources_1/imports/overflow_and_saturation/saturation_out.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity saturation_out
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/overflow/overflow.srcs/sources_1/imports/overflow_and_saturation/overflow_detection.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity overflow_detection
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/overflow/overflow.srcs/sources_1/imports/overflow_and_saturation/Overflow_Detection_and_Saturation_4_bit_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Overflow_Detection_and_Saturation_4_bit_adder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/overflow/overflow.srcs/sim_1/imports/overflow_and_saturation/Overflow_Detection_and_Saturation_4_bit_adder_tb_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arthur/Desktop/IC Design/overflow/overflow.srcs/sim_1/imports/overflow_and_saturation/Overflow_Detection_and_Saturation_4_bit_adder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Overflow_Detection_and_Saturation_4_bit_adder_tb
